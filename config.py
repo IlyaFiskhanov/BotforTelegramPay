@@ -1,0 +1,6 @@
+TOKEN = "#"
+PAYMENTS_TOKEN = "#"
+YOUR_TELEGRAM_USER_ID = "#"
+NUMBERS_FILE = "numbers.txt"
+USERS_FILE = "usernames.txt"
+DATABASE_FILE = "database.json"
