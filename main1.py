@@ -13,9 +13,9 @@ from aiogram.types import ParseMode
 # Настройка логирования
 logging.basicConfig(level=logging.INFO)
 
-TOKEN = "6432153368:AAFfS9eENYMSNDKYz2W85_g0mgLacS5v-lE"
-PAYMENTS_TOKEN = "381764678:TEST:68354"
-YOUR_TELEGRAM_USER_ID = "439047878"
+TOKEN = "#"
+PAYMENTS_TOKEN = "#"
+YOUR_TELEGRAM_USER_ID = "#"
 
 # Инициализация бота и диспетчера
 bot = Bot(token=TOKEN)
